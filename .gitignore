@@ -18,4 +18,4 @@ cache_hardhat/
 artifacts/
 
 #Hardhat plugin files
-.env
+
