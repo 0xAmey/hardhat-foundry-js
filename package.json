@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "hardhat": "^2.11.2",
+    "hardhat-preprocessor": "^0.1.5"
+  }
+}
