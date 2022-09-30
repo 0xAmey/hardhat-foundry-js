@@ -2,7 +2,6 @@
 require("fs")
 require("hardhat-preprocessor")
 require("hardhat-deploy")
-require("hardhat-gas-reporter")
 require("dotenv").config()
 require("@nomiclabs/hardhat-etherscan")
 
